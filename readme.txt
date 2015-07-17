@@ -22,3 +22,7 @@ And it's on [GitHub](https://github.com/dimadin/admin-bar-plugin-switcher).
 
 1. Upload `admin-bar-plugin-switcher` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. Example of admin bar menu after activation of this plugin.
